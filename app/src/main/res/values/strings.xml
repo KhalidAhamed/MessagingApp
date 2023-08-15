@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MessagingApp</string>
+    <string name="Call">Call</string>
+    <string name="Message">Message</string>
+    <string name="Email">Email</string>
+    <string name="Share">Share</string>
+</resources>
